@@ -5,6 +5,7 @@ Telegram Bot: https://t.me/EmployMoni_bot
 
 WebSite: https://dobrovnytru.ru/main.php
 
+# Доступ к аккаунту администратора
 - Логин: admin@mail.ru
 - Пароль: Admin123
 
