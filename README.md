@@ -1,7 +1,7 @@
 # RyBite-Xakaton-2025
 Команда РуБайт
 
-Telegram Bot: https://t.me/EmployMoni_bot
+Telegram Bot: https://t.me/EmployMoni_bot - В данный момент отключен
 
 WebSite: https://dobrovnytru.ru/main.php
 
